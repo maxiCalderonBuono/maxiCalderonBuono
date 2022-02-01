@@ -9,6 +9,13 @@
 <a href= "https://twitter.com/mcalderonbuono/"><img alt="twitter" width= "30px" align="left" src= "https://cdn-icons.flaticon.com/png/128/3256/premium/3256013.png?token=exp=1643661655~hmac=e89fc71d90fc46ecf698c448b3b37e5e"/></a>
 <a href= "https://www.instagram.com/max.calde/"><img alt="instagram" width= "30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/2111/2111463.png"/></a>.  
 
+## What I´m up to
+
++ :rocket: I´m a carrer switcher
++ :rocket: Mastering React
++ :rocket: Getting started with Blockchain
++ :rocket: Reading [Zero to One](https://images-na.ssl-images-amazon.com/images/I/41XuzXCGLlL._SX306_BO1,204,203,200_.jpg)
++ :rocket: Making plans to live abroad
 ## Languages and Tools
 
 <img alt="html5" width= "30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />
@@ -21,6 +28,7 @@
 
 ## Checkout my project!
 
+:eight_spoked_asterisk: [NEARBY](https://www.instagram.com/nearbymza/) :eight_spoked_asterisk:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XZMlZ50xacY
 " target="_blank"><img src="http://img.youtube.com/vi/XZMlZ50xacY/0.jpg" 
