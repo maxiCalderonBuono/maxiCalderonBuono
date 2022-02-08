@@ -6,8 +6,8 @@
 
 ## :muscle: Connect with me! 
 
-<a href= "https://www.linkedin.com/in/mcalderonbuono/"><img alt="linkedin" width= "30px" align="left" src= "https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1643660545~hmac=02c9e1f462e828eb8767f9d113a907fa"/></a>
-<a href= "https://twitter.com/mcalderonbuono/"><img alt="twitter" width= "30px" align="left" src= "https://cdn-icons.flaticon.com/png/128/3256/premium/3256013.png?token=exp=1643661655~hmac=e89fc71d90fc46ecf698c448b3b37e5e"/></a>
+<a href= "https://www.linkedin.com/in/mcalderonbuono/"><img alt="linkedin" width= "30px" align="left" src= "https://cdn-icons.flaticon.com/png/512/3938/premium/3938061.png?token=exp=1644348732~hmac=19ece71f281331e08c9dca46b2c2e144"/></a>
+<a href= "https://twitter.com/mcalderonbuono/"><img alt="twitter" width= "30px" align="left" src= "https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1644348685~hmac=270a5e868e20afae736815699f817b12"/></a>
 <a href= "https://www.instagram.com/max.calde/"><img alt="instagram" width= "30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/2111/2111463.png"/></a>.  
 
 ## What I´m up to
