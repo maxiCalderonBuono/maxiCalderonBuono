@@ -6,8 +6,8 @@
 
 ## :muscle: Connect with me! 
 
-<a href= "https://www.linkedin.com/in/mcalderonbuono/"><img alt="linkedin" width= "30px" align="left" src= "https://cdn-icons.flaticon.com/png/512/3938/premium/3938061.png?token=exp=1644348732~hmac=19ece71f281331e08c9dca46b2c2e144"/></a>
-<a href= "https://twitter.com/mcalderonbuono/"><img alt="twitter" width= "30px" align="left" src= "https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1644348685~hmac=270a5e868e20afae736815699f817b12"/></a>
+<a href= "https://www.linkedin.com/in/mcalderonbuono/"><img alt="linkedin" width= "30px" align="left" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/></a>
+<a href= "https://twitter.com/mcalderonbuono/"><img alt="twitter" width= "30px" align="left" src= "https://i0.wp.com/hipertextual.com/wp-content/uploads/2012/06/twitter-bird-white-on-blue.jpg?fit=300%2C300&ssl=1"/></a>
 <a href= "https://www.instagram.com/max.calde/"><img alt="instagram" width= "30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/2111/2111463.png"/></a>.  
 
 ## What I´m up to
