@@ -32,7 +32,7 @@
 <img alt="React" width="30px" align="left" src= "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
 <img alt="nextjs" width="30px" align="left" src= "https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"/>
 <img alt="Qwik" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/b2d3d9b1-7b0f-4b6c-8d4a-7e0a2713be50" /><img alt="Nodejs" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/4d7bc6be-1235-43cf-95d3-6eca1cdd8a16" /><img alt="Redux" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/b44691af-fd58-40d6-9e1f-83a1857c8e71" /><img alt="Tanstack-Query" width= "30px" align="left" src= "https://vectorwiki.com/images/Skj0l__react-query-icon.svg" />
-<img alt="Zustand" width="30px"  align="left" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" />
+<img alt="Zustand" width="50px"  align="left" src="https://res.cloudinary.com/practicaldev/image/fetch/s--OTBN-Alb--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/lftgzwgzy8g2u8vqwso2.png" />
 <img alt="MongoDB" width="30px" align="left" src= "https://vectorwiki.com/images/moMgK__mongodb-icon.svg" />
 <img alt="Firebase" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/490c4fe2-a2c3-40fb-8011-e8bb7953a016" />
 <img alt="Supabase" width="30px" align="left" src= "https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
