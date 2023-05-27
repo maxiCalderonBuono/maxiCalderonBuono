@@ -26,8 +26,8 @@
 
 ## Languages and Tools
 
-<div style="display:flex">
-<img alt="Typescript" width="30px" align="left" style="margin-bottom: 60px;" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/0a5d677a-59ac-473f-9dc7-560a39f9b503" />
+
+<img alt="Typescript" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/0a5d677a-59ac-473f-9dc7-560a39f9b503" />
 <img alt="Javascript" width="30px" align="left" src= "https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 <img alt="React" width="30px" align="left" src= "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
 <img alt="nextjs" width="30px" align="left" src= "https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"/>
@@ -43,7 +43,7 @@
 <img alt="Contentful" width="30px" align="left" src= "https://static-00.iconduck.com/assets.00/contentful-icon-1814x2048-gzfmzho8.png" />
 <img alt="html5" width="30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />
 <img alt="css3" width="30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/732/732190.png" />
-</div
+
 <br/>
 <br/>
 <br/>
