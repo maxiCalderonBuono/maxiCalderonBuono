@@ -26,7 +26,7 @@
 
 ## Languages and Tools
 
-<div style="display:flex">
+<div style="display:flex, justify-content: space-between">
 <img alt="Typescript" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/0a5d677a-59ac-473f-9dc7-560a39f9b503" />
 <img alt="Javascript" width= "30px" align="left" src= "https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 <img alt="React" width= "30px" align="left" src= "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
