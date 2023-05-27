@@ -16,7 +16,7 @@
 ## What I´m up to
 
 + :rocket: I´m a carrer switcher
-+ :rocket: When I'm not coding, I'm working as a sales engineer at a Danish company.
++ :rocket: When I'm not coding, I'm working as a sales engineer at a Danish company or travelling.
 + :rocket: Mastering React
 + :rocket: Learning Next & Qwik
 + :rocket: In love with AI, travels and pets
@@ -26,12 +26,23 @@
 
 ## Languages and Tools
 
+<img alt="Typescript" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/0a5d677a-59ac-473f-9dc7-560a39f9b503" />
+<img alt="Javascript" width= "30px" align="left" src= "https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
+<img alt="React" width= "30px" align="left" src= "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
+<img alt="nextjs" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/ff07aec1-3575-4591-b439-432d9a02e25b)"/>
+<img alt="Qwik" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/b2d3d9b1-7b0f-4b6c-8d4a-7e0a2713be50" />
+<img alt="Nodejs" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/4d7bc6be-1235-43cf-95d3-6eca1cdd8a16" />
+<img alt="MongoDB" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/20bde1f9-b8a3-4e36-94b2-b7c7701eb66d" />
+<img alt="Firebase" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/490c4fe2-a2c3-40fb-8011-e8bb7953a016" />
+<img alt="Supabase" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/490c4fe2-a2c3-40fb-8011-e8bb7953a016" />
+<img alt="TailwindCSS" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/6238e949-fb87-48c5-9826-9364f5bccb27" />
+<img alt="Bootstrap" width= "30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/2f8950c3-8807-4dfd-9796-1b197fcb5ab5"/>
 <img alt="html5" width= "30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />
 <img alt="css3" width= "30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/732/732190.png" />
-<img alt="javascript" width= "30px" align="left" src= "https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-<img alt="React" width= "30px" align="left" src= "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
 <img alt="vscode" width= "30px" align="left" src= "https://cdn.icon-icons.com/icons2/3110/PNG/512/visual_studio_code_icon_191770.png" />
 <img alt="postman" width= "30px" align="left" src= "https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" />.
+
+
 
 
 ## Checkout my project!
