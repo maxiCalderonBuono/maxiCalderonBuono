@@ -47,7 +47,7 @@
 <img alt="css3" width= "30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/732/732190.png" />  
 
 
-## Checkout my project!
+
 
 :eight_spoked_asterisk: [NEARBY](https://www.instagram.com/nearbymza/) :eight_spoked_asterisk:
 
