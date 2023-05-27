@@ -1,8 +1,11 @@
 
 # `Hello World!`, It´s Maxi Calderón :blush::wave:
 
-### I´m a `Frontend` developer :computer:, sometimes an entrepreneur :construction_worker::iphone:, and 100% Ferrari cars fan :red_car:
-#### I´m looking forward for something more challeging every day. Living in Copenhagen, from Argentina.
+### I'm a frontend developer 👩‍💻, engineer , sometimes an entrepreneur 👷‍♀️📱, a 100% fan of Ferrari cars 🏎️🔴, and currently transitioning into the IT world as a career changer.
+
+#### Currently seeking my first role as a Frontend Developer, ready to bring my passion for coding and design to create impactful web experiences.
+
+### Take a look at my portfolio: [maxicalderon.dev](https://maxicalderon.dev)
 
 ## :muscle: Connect with me! 
 
@@ -13,10 +16,14 @@
 ## What I´m up to
 
 + :rocket: I´m a carrer switcher
++ :rocket: When I'm not coding, I'm working as a sales engineer at a Danish company.
 + :rocket: Mastering React
-+ :rocket: Getting started with Blockchain
++ :rocket: Learning Next & Qwik
++ :rocket: In love with AI, travels and pets
++ :rocket: Happily married 
 + :rocket: Reading [Zero to One](https://images-na.ssl-images-amazon.com/images/I/41XuzXCGLlL._SX306_BO1,204,203,200_.jpg)
-+ :rocket: Making plans to live abroad
+
+
 ## Languages and Tools
 
 <img alt="html5" width= "30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />
