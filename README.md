@@ -45,5 +45,21 @@
 <img alt="Contentful" width= "30px" align="left" src= "https://static-00.iconduck.com/assets.00/contentful-icon-1814x2048-gzfmzho8.png" />
 <img alt="html5" width= "30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />
 <img alt="css3" width= "30px"  src= "https://cdn-icons-png.flaticon.com/128/732/732190.png" />  
-  
+
+ ## Checkout my project
+
+:eight_spoked_asterisk: [NEARBY](https://www.instagram.com/nearbymza/) :eight_spoked_asterisk:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XZMlZ50xacY
+" target="_blank"><img src="http://img.youtube.com/vi/XZMlZ50xacY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sa1LZT_5Oh8
+" target="_blank"><img src="http://img.youtube.com/vi/sa1LZT_5Oh8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+## My progress
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=maxiCalderonBuono)](https://github.com/maxiCalderonBuono)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxiCalderonBuono&layout=compact)](https://github.com/maxiCalderonBuono)
 
