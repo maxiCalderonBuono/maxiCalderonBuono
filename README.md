@@ -3,7 +3,7 @@
 
 ### I'm a frontend developer 👩‍💻, engineer , sometimes an entrepreneur 👷‍♀️📱, a 100% fan of Ferrari cars 🏎️, and currently transitioning into the IT world as a career changer.
 
-#### Currently seeking my first role as a Frontend Developer, ready to bring my passion for coding and design to create impactful web experiences.
+### Currently seeking my first role as a Frontend Developer, ready to bring my passion for coding and design to create impactful web experiences.
 
 ### Take a look at my portfolio: [maxicalderon.dev](https://maxicalderon.dev)
 
