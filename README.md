@@ -40,9 +40,6 @@
 <img alt="ChakraUI" width="30px" align="left" src= "https://img.icons8.com/?size=512&id=r9QJ0VFFrn7T&format=png" />
 <img alt="Bootstrap" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/b88e9aaa-47f2-4665-a022-d1f2753c8a48" />
 <img alt="Strapi" width="30px" align="left" src= "https://images.opencollective.com/strapi/3ec3247/logo/256.png" />
-<br/>
-<br/>
-<br/>
 <img alt="Contentful" width="30px" align="left" src= "https://static-00.iconduck.com/assets.00/contentful-icon-1814x2048-gzfmzho8.png" />
 <img alt="html5" width="30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />
 <img alt="css3" width="30px" align="left" src= "https://cdn-icons-png.flaticon.com/128/732/732190.png" />
