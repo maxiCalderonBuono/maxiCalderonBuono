@@ -1,9 +1,7 @@
 
 # `Hello World!`, It´s Maxi Calderón :blush::wave:
 
-### I'm a frontend developer 👩‍💻, engineer , sometimes an entrepreneur 👷‍♀️📱, a 100% fan of Ferrari cars 🏎️, and currently transitioning into the IT world as a career changer.
-
-### Currently seeking my first role as a Frontend Developer, ready to bring my passion for coding and design to create impactful web experiences.
+### I'm a frontend developer 👩‍💻, engineer , sometimes an entrepreneur 👷‍♀️📱, a 100% fan of Ferrari cars 🏎️.
 
 ### Take a look at my portfolio: [maxicalderon.dev](https://maxicalderon.dev)
 
@@ -15,10 +13,11 @@
 
 ## What I´m up to
 
-+ :rocket: I´m a carrer switcher
-+ :rocket: When I'm not coding, I'm working as a sales engineer at a Danish company or travelling.
-+ :rocket: Mastering React
-+ :rocket: Learning Next & Qwik
++ :rocket: Developing @Regulars loyalty app: TypeScript, Next.JS, TailwindCSS, tRPC, TanStack-Query and MongoDB
++ :rocket: When I'm not coding, I'm travelling or looking after some pets in the city
++ :rocket: Mastering Next.JS and RSC
++ :rocket: Always learning something new
++ :rocket: Ivolved in IT communities
 + :rocket: In love with AI, travels and pets
 + :rocket: Happily married 
 + :rocket: Reading [Zero to One](https://images-na.ssl-images-amazon.com/images/I/41XuzXCGLlL._SX306_BO1,204,203,200_.jpg)
@@ -47,9 +46,18 @@
 <br/>
 <br/>
 <br/>
+## My last freelance project:
+
+[Mindenkié](https://www.mindenkie.com/)
+
+- Headless CMS. Fully customizable content creation dashboard.
+- Automatic deployment on Vercel using webhook.
+- Search engine optimization for improved visibility.
+- Edge function for dynamic Open Graph.
+- Media sharing, visits counter.
 
 
-## Checkout my project
+## Checkout my personal project
 
 :eight_spoked_asterisk: [NEARBY](https://www.instagram.com/nearbymza/) :eight_spoked_asterisk:
 
