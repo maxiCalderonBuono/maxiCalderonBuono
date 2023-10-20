@@ -1,7 +1,7 @@
 
 # `Hello World!`, It´s Maxi Calderón :blush::wave:
 
-### I'm a frontend developer 👩‍💻, engineer , sometimes an entrepreneur 👷‍♀️📱, a 100% fan of Ferrari cars 🏎️.
+### I'm a fullstack developer 👩‍💻, industrial engineer , sometimes an entrepreneur 👷‍♀️📱,and a 100% fan of Ferrari cars 🏎️.
 
 ### Take a look at my portfolio: [maxicalderon.dev](https://maxicalderon.dev)
 
@@ -46,15 +46,18 @@
 <br/>
 <br/>
 <br/>
+
+
 ## My last freelance project:
 
-[Mindenkié](https://www.mindenkie.com/)
+Blog: [Mindenkié](https://www.mindenkie.com/)
 
 - Headless CMS. Fully customizable content creation dashboard.
 - Automatic deployment on Vercel using webhook.
 - Search engine optimization for improved visibility.
 - Edge function for dynamic Open Graph.
 - Media sharing, visits counter.
+<br/>
 
 
 ## Checkout my personal project
