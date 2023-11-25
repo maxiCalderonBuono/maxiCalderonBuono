@@ -13,12 +13,11 @@
 
 ## What I´m up to
 
-+ :rocket: Developing @Regulars loyalty app: TypeScript, Next.JS, TailwindCSS, tRPC, TanStack-Query and MongoDB
-+ :rocket: When I'm not coding, I'm travelling or looking after some pets in the city
-+ :rocket: Mastering Next.JS and RSC
++ :rocket: Developing [Regulars](https://www.getregulars.com/) loyalty app: TypeScript, Zod, Next.JS, TailwindCSS, tRPC, TanStack-Query, MongoDB and AWS.
++ :rocket: When I'm not coding, I'm travelling or looking after some pets in the city. I love hiking, biking and table tennis.
++ :rocket: Mastering Next.JS, RSC and Cloud services.
 + :rocket: Always learning something new
-+ :rocket: Ivolved in IT communities
-+ :rocket: In love with AI, travels and pets
++ :rocket: Involved in IT communities
 + :rocket: Happily married 
 + :rocket: Reading [Zero to One](https://images-na.ssl-images-amazon.com/images/I/41XuzXCGLlL._SX306_BO1,204,203,200_.jpg)
 
@@ -30,11 +29,18 @@
 <img alt="Javascript" width="30px" align="left" src= "https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 <img alt="React" width="30px" align="left" src= "https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" />
 <img alt="nextjs" width="30px" align="left" src= "https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"/>
-<img alt="Qwik" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/b2d3d9b1-7b0f-4b6c-8d4a-7e0a2713be50" /><img alt="Nodejs" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/4d7bc6be-1235-43cf-95d3-6eca1cdd8a16" /><img alt="Redux" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/b44691af-fd58-40d6-9e1f-83a1857c8e71" /><img alt="Tanstack-Query" width= "30px" align="left" src= "https://vectorwiki.com/images/Skj0l__react-query-icon.svg" />
+<img alt="nodejs" width="30px" align="left" src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"/>
+<img alt="expressjs" width="30px" align="left" src= "https://img.icons8.com/officel/16/express-js.png"/>
+<img alt="amazonwebservices" width="30px" align="left" src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"/>
+<img alt="Qwik" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/b2d3d9b1-7b0f-4b6c-8d4a-7e0a2713be50" />
+<img alt="Redux" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/b44691af-fd58-40d6-9e1f-83a1857c8e71" />
+<img alt="Tanstack-Query" width= "30px" align="left" src= "https://vectorwiki.com/images/Skj0l__react-query-icon.svg" />
 <img alt="Zustand" width="50px"  align="left" src="https://res.cloudinary.com/practicaldev/image/fetch/s--OTBN-Alb--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/lftgzwgzy8g2u8vqwso2.png" />
+<img alt="SQL" width="30px" align="left" src= "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />
 <img alt="MongoDB" width="30px" align="left" src= "https://vectorwiki.com/images/moMgK__mongodb-icon.svg" />
 <img alt="Firebase" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/490c4fe2-a2c3-40fb-8011-e8bb7953a016" />
 <img alt="Supabase" width="30px" align="left" src= "https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" />
+<img alt="Prisma" width="70px" align="left" src= "https://seeklogo.com/images/P/prisma-logo-BE375CFB25-seeklogo.com.png" />
 <img alt="TailwindCSS" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/6238e949-fb87-48c5-9826-9364f5bccb27" />
 <img alt="ChakraUI" width="30px" align="left" src= "https://img.icons8.com/?size=512&id=r9QJ0VFFrn7T&format=png" />
 <img alt="Bootstrap" width="30px" align="left" src= "https://github.com/maxiCalderonBuono/maxiCalderonBuono/assets/77062697/b88e9aaa-47f2-4665-a022-d1f2753c8a48" />
